@@ -1,5 +1,8 @@
 # Instruction
-1. Fork this repository to your own account. You can do this by clicking the `Fork` button on the top right corner of this page. 
+1. Fork this repository to your own account. You can do this by clicking the `Fork` button on the top right corner of this page. Input a repository name. Un-check "Copy the main branch only". Then click `Fork repository` button.
+  
+![Alt text](image.png)
+
 2. In your forked repository, change to the `dev1` branch. 
 3. Edit the file `students.md`. 
 4. Copy and paste the template and add your name and introduction below the template.
